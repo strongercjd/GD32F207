@@ -576,6 +576,11 @@
               <FileType>1</FileType>
               <FilePath>..\gd32f20x_it.c</FilePath>
             </File>
+            <File>
+              <FileName>LCD_disp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\LCD_disp.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
